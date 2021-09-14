@@ -7,6 +7,6 @@
 
 <p>This project incorporates pagination for a directory. </p>
 
-<p>Users are also able to search by letter(s) in the name for members of the directory. </p>
+<p>Users are also able to search by letter(s) in the name of members of the directory. </p>
 
 <p>The data from the search is not stored anywhere.</p>
