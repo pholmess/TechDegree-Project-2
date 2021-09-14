@@ -1,7 +1,7 @@
 
 <h2>Welcome to my...</h2>
 
-<h1># TechDegree Project 2: Data Pagination and Filtering</h1>
+<h1>TechDegree Project 2: Data Pagination and Filtering</h1>
 
 <h3>Sherri Holmes</h3>
 
